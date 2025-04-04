@@ -1,0 +1,29 @@
+# Android
+.gradle/
+local.properties
+*.iml
+build/
+captures/
+.externalNativeBuild/
+
+# Kotlin
+*.class
+*.jar
+*.war
+*.ear
+*.kt~ 
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Vim
+*.swp
+*.swo
